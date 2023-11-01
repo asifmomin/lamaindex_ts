@@ -1,0 +1,12 @@
+{
+  "name": "lamaindex_ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.8.10",
+    "dotenv": "^16.3.1",
+    "llamaindex": "^0.0.0-20231026231921",
+    "typescript": "^5.2.2"
+  }
+}
